@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126F523F-C58B-446E-872D-9589FF71D7EF}|Umumi_Tasklar\\Umumi_Tasklar.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar\\umumi_tasklar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F523F-C58B-446E-872D-9589FF71D7EF}|Umumi_Tasklar\\Umumi_Tasklar.csproj|solutionrelative:umumi_tasklar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F523F-C58B-446E-872D-9589FF71D7EF}|Umumi_Tasklar\\Umumi_Tasklar.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar\\umumi_tasklar\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F523F-C58B-446E-872D-9589FF71D7EF}|Umumi_Tasklar\\Umumi_Tasklar.csproj|solutionrelative:umumi_tasklar\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F523F-C58B-446E-872D-9589FF71D7EF}|Umumi_Tasklar\\Umumi_Tasklar.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar\\umumi_tasklar\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F523F-C58B-446E-872D-9589FF71D7EF}|Umumi_Tasklar\\Umumi_Tasklar.csproj|solutionrelative:umumi_tasklar\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\Umumi_Tasklar\\User.cs",
+              "RelativeDocumentMoniker": "Umumi_Tasklar\\User.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\Umumi_Tasklar\\User.cs",
+              "RelativeToolTip": "Umumi_Tasklar\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:33:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\Umumi_Tasklar\\Human.cs",
+              "RelativeDocumentMoniker": "Umumi_Tasklar\\Human.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\Umumi_Tasklar\\Human.cs",
+              "RelativeToolTip": "Umumi_Tasklar\\Human.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:26:51.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\Umumi_Tasklar\\Program.cs",
+              "RelativeDocumentMoniker": "Umumi_Tasklar\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_Tasklar\\Umumi_Tasklar\\Program.cs",
+              "RelativeToolTip": "Umumi_Tasklar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:50:28.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
