@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar_vehicle\\umumi_tasklar_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|solutionrelative:umumi_tasklar_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar_vehicle\\umumi_tasklar_vehicle\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|solutionrelative:umumi_tasklar_vehicle\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar_vehicle\\umumi_tasklar_vehicle\\models\\galley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|solutionrelative:umumi_tasklar_vehicle\\models\\galley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar_vehicle\\umumi_tasklar_vehicle\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|solutionrelative:umumi_tasklar_vehicle\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|c:\\users\\ii novbe\\desktop\\fexreddinstudios\\umumi_tasklar_vehicle\\umumi_tasklar_vehicle\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6868B018-CB84-4CB8-AD17-55E0D942791F}|Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle.csproj|solutionrelative:umumi_tasklar_vehicle\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Galley.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Galley.cs",
+              "RelativeDocumentMoniker": "Umumi_TaskLar_Vehicle\\Models\\Galley.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Galley.cs",
+              "RelativeToolTip": "Umumi_TaskLar_Vehicle\\Models\\Galley.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:58:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Umumi_TaskLar_Vehicle\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Bicycle.cs",
+              "RelativeToolTip": "Umumi_TaskLar_Vehicle\\Models\\Bicycle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:54:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Umumi_TaskLar_Vehicle\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Car.cs",
+              "RelativeToolTip": "Umumi_TaskLar_Vehicle\\Models\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:45:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Umumi_TaskLar_Vehicle\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Umumi_TaskLar_Vehicle\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:35:46.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Program.cs",
+              "RelativeDocumentMoniker": "Umumi_TaskLar_Vehicle\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\fexreddinstudios\\Umumi_TaskLar_Vehicle\\Umumi_TaskLar_Vehicle\\Program.cs",
+              "RelativeToolTip": "Umumi_TaskLar_Vehicle\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:34:39.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

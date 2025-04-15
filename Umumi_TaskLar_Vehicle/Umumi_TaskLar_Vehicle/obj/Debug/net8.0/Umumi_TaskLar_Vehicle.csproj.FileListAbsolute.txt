@@ -1,0 +1,14 @@
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\bin\Debug\net8.0\Umumi_TaskLar_Vehicle.exe
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\bin\Debug\net8.0\Umumi_TaskLar_Vehicle.deps.json
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\bin\Debug\net8.0\Umumi_TaskLar_Vehicle.runtimeconfig.json
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\bin\Debug\net8.0\Umumi_TaskLar_Vehicle.dll
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\bin\Debug\net8.0\Umumi_TaskLar_Vehicle.pdb
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.dll
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\refint\Umumi_TaskLar_Vehicle.dll
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.pdb
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\Umumi_TaskLar_Vehicle.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\Umumi_TaskLar_Vehicle\Umumi_TaskLar_Vehicle\obj\Debug\net8.0\ref\Umumi_TaskLar_Vehicle.dll
