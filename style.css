@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 225, 218);
+}
+#face{
+    font-size: 90px;
+    color: rgb(2, 106, 190);
+    margin-top: 230px;
+    margin-left: 350px;
+    font-weight: bold;
+    display: inline-block;
+}
+#faceyazi{
+    font-size: 30px;
+    color: rgb(41, 41, 41);
+    margin-top: 0px;
+    margin-left: 350px;
+    margin-right: 1050px;
+    font-weight: 500;
+    display: inline-block;
+}
+#dil{
+    display: inline-block;
+    margin-top: 350px;
+    margin-left: 500px;
+    color: rgb(145, 145, 151);
+    font-size: 17px;
+    font-weight: 100;
+}
+#kaydol{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-right: 400px;
+    color: rgb(145, 145, 151);
+    font-size: 15px;
+    font-weight: 100;
+}
+form{
+    display: inline-block;
+    margin-bottom: 1000px;
+}
